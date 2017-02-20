@@ -1,4 +1,4 @@
-Colours of the Rainbow and Unicorns
+Colours of the Rainbow, Unicorns and Ponies
 
 Red
 Orange
@@ -12,3 +12,7 @@ Aquamarine
 White
 Pink
 Purple
+
+Grey
+Black
+White
