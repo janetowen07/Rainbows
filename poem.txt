@@ -1,4 +1,4 @@
-Colours of the Rainbow
+Colours of the Rainbow and Unicorns
 
 Red
 Orange
@@ -7,3 +7,7 @@ Green
 Blue
 Indigo
 Violet
+
+White
+Pink
+Purple
